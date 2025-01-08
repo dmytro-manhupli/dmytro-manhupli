@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dmytro
-- 👀 I’m interested in backend development with Python, FastAPI, Django, Node.js, Express.js, NestJS. I also have experience in React.js, React Native.
+- 👀 I have 10 years of experience in React.js, 7 years of experience in React Native, Expo. I’m interested in backend development with Python, FastAPI, Django, Node.js, Express.js, NestJS. 
 - 🌱 I’m currently learning AI technology such as OpenAI, Hugging Face, machine learning with TensorFlow, PyTorch.
 - 💞️ I’m looking to collaborate on long-term, remote position.
 
